@@ -3,5 +3,11 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+<<<<<<< HEAD
     <color name="colorRedFeature">#FF0000</color>
+=======
+    <color name="colorGreenFeature">#00FF00</color>
+    <!-- adding color for blue feature -->
+    <color name="colorBlueFeature">#0000FF</color>
+>>>>>>> d3d3052c646239e59670d7177bd860da4cbf9094
 </resources>
